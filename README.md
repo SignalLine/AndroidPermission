@@ -46,3 +46,6 @@ if(AndPermission.hasPermission(this, Manifest.permission.READ_SMS)) {
         .permission(Manifest.permission.WRITE_CONTACTS, Manifest.permission.READ_SMS)
         .send();
 }
+
+
+最后感谢---https://github.com/yanzhenjie/AndPermission
